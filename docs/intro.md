@@ -6,4 +6,4 @@ import Link from "@docusaurus/Link";
 
 # Tutorial Intro
 
-- <Link to="/docs/JavaScript/jss">JS</Link>
+- <Link to="/docs/JavaScript/js">JS</Link>
